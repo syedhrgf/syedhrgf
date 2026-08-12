@@ -14,7 +14,7 @@ I focus on creating systems that are **robust, maintainable, and future-proof**,
 - 🔄 **Real-time Systems:** Building live, interactive applications with Socket.IO  
 - 📡 **API Architecture:** Crafting RESTful & WebSocket APIs for reliability and performance  
 - 💡 **Leadership & Mentorship:** Leading teams, shaping architecture decisions, and fostering clean, maintainable code  
-- 🎨 **Open Source:** Creator of [StrivUI](https://www.npmjs.com/package/strivui) — a React UI library supporting SSR, SSG, and CSR 🚀 2,000+ downloads  
+- 🎨 **Open Source:** Creator of [StrivUI](https://www.npmjs.com/package/strivui) — a React UI library supporting SSR, SSG, and CSR 🚀 8,000+ downloads  
 
 I’m passionate about **building products that last**, solving complex technical challenges, and creating systems that empower teams to move fast with confidence.
 
